@@ -26,4 +26,4 @@ Here is a summary of the commands used for Git rebase;
 
 Explain `cherry-picking`: Cherry-picking is the act of picking a commit from a branch and applying it to another.
 
-The command for cherry-picking: git cherry-pick <commit-hash>
+The command for cherry-picking: `git cherry-pick <commit-hash>`
